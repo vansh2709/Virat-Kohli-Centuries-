@@ -26,8 +26,8 @@ This dashboard provides:
 3. Explore the interactive visuals using filters and slicers.
 
 ## 📷 Dashboard Preview
+![VK overall](https://github.com/user-attachments/assets/0fe9c789-5d5e-433e-b9f1-4cfd073424e5)
 
-![Virat Kohli Career Dashboard](VK%20overall.jpg)
 
  🙌 Credits
 * **Data Source**: [ESPN Cricinfo](https://www.espncricinfo.com/)
